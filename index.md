@@ -29,10 +29,15 @@ Como parte del proyecto proponemos desarrollar las siguientes acciones:
 ### Articulaciones que ya se comenzaron a realizar
 
 - Granja Siquem. (contacto Manuel Schneider).
+  - biblioteca digital
 - Programa de Apicultura UNRC (Contacto Paula Melegatti).
-- Desarrollo del Sitio web de la CALISA UNRC (contacto Geraldine Bertolo)
+  - Actividades de difusión del Software Libre
+- CALISA UNRC (contacto Geraldine Bertolo)
+  - Desarrollo del Sitio web
 - Escuelas rurales sin conexión a Internet (contacto Cintia Tamargo)
+  - biblioteca digital portatil
 - Escuela IPET 26 Filloy (contacto Andrea Lescano)
+  - Actividades de difusión del Software Libre
 
 Todas estas acciones se plantean desarrollarlas bajo un lógica distinta a la que usan las "redes sociales", que crean adicción, trabajan la "economía de la atención" y necesitan del "like". Proponemos desarrollar "redes comunitarias", donde lo importante es vincular personas para generar cooperación y comunidad.
 
