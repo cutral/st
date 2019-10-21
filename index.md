@@ -21,7 +21,7 @@ Como parte del proyecto proponemos desarrollar las siguientes acciones:
 
 - Desarrollo del Sitio web de la CALISA UNRC.
 - Desarrollo de una biblioteca digital portátil.
-- Difundir los principios del Software Libre.
+- Difundir los principios del Software Libre y Cultura Libre.
 - Difundir conceptos de privacidad informática.
 - Generar autonomía y conocimientos técnicos.
 - Buscar herramientas que permitan desentralizar las comunicaciones.
