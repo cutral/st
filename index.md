@@ -9,7 +9,7 @@ pagetitle: Soberanía Tecnológica
 
 ### Resumen
 
-Proponemos abordar la temática de la Soberanía Tecnológica integrada al proyecto de extensión "Construyendo caminos hacia la seguridad alimentaria", por considerar que la tecnología atraviesa los procesos de comunicación que usamos a diario - Computadoras y celulares - y nos permite abordar una mirada integral para mejorar el entendimiento conceptual que nos permita alcanzar la soberanía alimentaria, teniendo en cuenta aspectos de la tecnopolítica, los derechos digitales, la libertad de expresión y la regulación de Internet guiada por los DDHH.
+Proponemos abordar la temática de la Soberanía Tecnológica integrada al proyecto de extensión "Construyendo caminos hacia la seguridad alimentaria", por considerar que la tecnología atraviesa los procesos de comunicación que usamos a diario - Computadoras y celulares - y nos posibilite abordar una mirada integral para mejorar el entendimiento conceptual que nos permita alcanzar la soberanía alimentaria, teniendo en cuenta aspectos de la tecnopolítica, los derechos digitales, la libertad de expresión y la regulación de Internet guiada por los DDHH.
 
 Al igual que ocurre en muchos aspectos del sistema económico en general - y con la alimentación en particular - encontramos una concentración extrema de servicios por parte de grandes corporaciones, en el caso de las TICs se las conoce con el nombre de "GAFA": Google, Amazon, Facebook y Apple, que dominan gran parte de las actividades que desarrollamos en Internet.
 
