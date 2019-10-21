@@ -13,7 +13,7 @@ Proponemos abordar la temática de la Soberanía Tecnológica integrada al proye
 
 Al igual que ocurre en muchos aspectos del sistema económico en general - y con la alimentación en particular - encontramos una concentración extrema de servicios por parte de grandes corporaciones, en el caso de las TICs se las conoce con el nombre de "GAFA": Google, Amazon, Facebook y Apple, que dominan gran parte de las actividades que desarrollamos en Internet.
 
-En este contexto buscamos desarrollar alternativas que permitan "otra Internet", donde primen los valores comunitarios y la cooperación - en contraposición con la lógica de las corporaciones y que permita comunicarnos sin la necesidad de tener una empresa - generalmente de EEUU o China -, cuyo objetivo es ganar dinero con nuestra información, mediando entre los usuarios de la comunidad.
+En este contexto buscamos desarrollar alternativas que permitan otra Internet "post nube": infraestructuras caseras, independientes y comunitarias, donde primen los valores comunitarios y la cooperación - en contraposición con la lógica de las corporaciones y que permita comunicarnos sin la necesidad de tener una empresa - generalmente de EEUU o China -, cuyo objetivo es ganar dinero con nuestra información, mediando entre los usuarios de la comunidad.
 
 ### Acciones
 
