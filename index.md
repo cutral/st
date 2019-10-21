@@ -36,6 +36,8 @@ Como parte del proyecto proponemos desarrollar las siguientes acciones:
 
 Todas estas acciones se plantean desarrollarlas bajo un lógica distinta a la que usan las "redes sociales", que crean adicción, trabajan la "economía de la atención" y necesitan del "like". Proponemos desarrollar "redes comunitarias", donde lo importante es vincular personas para generar cooperación y comunidad.
 
+Se estima la necesidad de poder dedicar entre 5 y 8 hs semanales para desarrollar las actividades propuestas.
+
 Ref:
 
 - El 90 por ciento de las escuelas rurales no disponen de internet
