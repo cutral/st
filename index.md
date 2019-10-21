@@ -1,5 +1,5 @@
 ---
-pagetitle: SOberanía Tecnológica
+pagetitle: Soberanía Tecnológica
 ---
 
 # Proyecto de Extensión
@@ -9,9 +9,11 @@ pagetitle: SOberanía Tecnológica
 
 ### Resumen
 
-Proponemos abordar la temática de la Soberanía Tecnológica como parte integral del proyecto de extensión "Construyendo caminos hacia la seguridad alimentaria" por considerar que la tecnología atraviesa los procesos de comunicación que usamos a diario - Computadoras, celulares - y nos permite abordar una mirada integral para mejorar el entendimiento conceptual que nos permita alcanzar la soberanía alimentaria teniendo en cuenta aspectos de la tecnopolítica, los derechos digitales, la libertad de expresión y la regulación de Internet guiada por los DDHH.
+Proponemos abordar la temática de la Soberanía Tecnológica integrada al proyecto de extensión "Construyendo caminos hacia la seguridad alimentaria", por considerar que la tecnología atraviesa los procesos de comunicación que usamos a diario - Computadoras y celulares - y nos permite abordar una mirada integral para mejorar el entendimiento conceptual que nos permita alcanzar la soberanía alimentaria, teniendo en cuenta aspectos de la tecnopolítica, los derechos digitales, la libertad de expresión y la regulación de Internet guiada por los DDHH.
 
-Al igual que ocurre en muchos aspectos del sistema económico en general - y con la alimentación en particular - encontramos una concentración extrema de servicios por parte de grandes corporaciones, conocidas como GAFA: Google, Amazon, Facebook y Apple, que dominan gran parte de las actividades que desarrollamos en Internet.
+Al igual que ocurre en muchos aspectos del sistema económico en general - y con la alimentación en particular - encontramos una concentración extrema de servicios por parte de grandes corporaciones, en el caso de las TICs se las conoce con el nombre de "GAFA": Google, Amazon, Facebook y Apple, que dominan gran parte de las actividades que desarrollamos en Internet.
+
+En este contexto buscamos desarrollar alternativas que permitan "otra Internet", donde primen los valores comunitarios y la cooperación - en contraposición con la lógica de las corporaciones.
 
 ### Acciones
 
@@ -23,6 +25,11 @@ Como parte del proyecto proponemos desarrollar las siguientes acciones:
 - Difundir conceptos de privacidad informática.
 - Generar autonomía y conocimientos técnicos.
 - Buscar herramientas que permitan desentralizar las comunicaciones.
-- Analizar alternativas de comunicación que resulten adecuadas para eventuales catastrofes climáticas.
+- Analizar alternativas de comunicación adecuadas para eventuales catastrofes climáticas en comunidades rurales.
 
 Todas estas acciones se plantean desarrollarlas bajo un lógica distinta a la que usan las "redes sociales", que crean adicción, trabajan la "economía de la atención" y necesitan del "like". Proponemos desarrollar "redes comunitarias", donde lo importante es vincular personas para generar cooperación y comunidad.
+
+Ref:
+
+- El 90 por ciento de las escuelas rurales no disponen de internet
+  - https://www.unrc.edu.ar/unrc/n_comp.cdc?nota=33707
