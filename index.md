@@ -19,7 +19,7 @@ En este contexto buscamos desarrollar alternativas que permitan otra Internet "p
 
 Como parte del proyecto proponemos desarrollar las siguientes acciones:
 
-- Desarrollo de una biblioteca digital portátil.
+- Desarrollo de una biblioteca digital multimedia portátil.
 - Difundir los principios del Software Libre y Cultura Libre.
 - Difundir conceptos de privacidad informática.
 - Generar autonomía y conocimientos técnicos.
@@ -29,7 +29,7 @@ Como parte del proyecto proponemos desarrollar las siguientes acciones:
 ### Articulaciones que ya se comenzaron a realizar
 
 - Granja Siquem. (contacto Manuel Schneider).
-  - biblioteca digital
+  - biblioteca digital multimedia
 - Programa de Apicultura UNRC (Contacto Paula Melegatti).
   - Actividades de difusión del Software Libre
 - CALISA UNRC (contacto Geraldine Bertolo)
