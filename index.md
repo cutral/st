@@ -13,19 +13,26 @@ Proponemos abordar la temática de la Soberanía Tecnológica integrada al proye
 
 Al igual que ocurre en muchos aspectos del sistema económico en general - y con la alimentación en particular - encontramos una concentración extrema de servicios por parte de grandes corporaciones, en el caso de las TICs se las conoce con el nombre de "GAFA": Google, Amazon, Facebook y Apple, que dominan gran parte de las actividades que desarrollamos en Internet.
 
-En este contexto buscamos desarrollar alternativas que permitan otra Internet "post nube": infraestructuras caseras, independientes y comunitarias, donde primen los valores comunitarios y la cooperación - en contraposición con la lógica de las corporaciones y que permita comunicarnos sin la necesidad de tener una empresa - generalmente de EEUU o China -, cuyo objetivo es ganar dinero con nuestra información, mediando entre los usuarios de la comunidad.
+En este contexto buscamos desarrollar alternativas que permitan otra Internet "post nube": infraestructuras caseras, independientes, comunitarias y fundamentalmente soberanas, donde primen los valores comunitarios y la cooperación - en contraposición con la lógica de las corporaciones y que permita comunicarnos sin la necesidad de tener una empresa - generalmente de EEUU o China -, cuyo objetivo es ganar dinero con nuestra información, mediando entre los usuarios de la comunidad.
 
-### Acciones
+### Actividades
 
 Como parte del proyecto proponemos desarrollar las siguientes acciones:
 
-- Desarrollo del Sitio web de la CALISA UNRC.
 - Desarrollo de una biblioteca digital portátil.
 - Difundir los principios del Software Libre y Cultura Libre.
 - Difundir conceptos de privacidad informática.
 - Generar autonomía y conocimientos técnicos.
-- Investigar y difundir herramientas que permitan desentralizar las comunicaciones.
+- Investigar y difundir herramientas que permitan descentralizar las comunicaciones.
 - Analizar alternativas de comunicación adecuadas para eventuales catastrofes climáticas en comunidades rurales.
+
+### Articulaciones que ya se comenzaron a realizar
+
+- Granja Siquem. (contacto Manuel Schneider).
+- Programa de Apicultura UNRC (Contacto Paula Melegatti).
+- Desarrollo del Sitio web de la CALISA UNRC (contacto Geraldine Bertolo)
+- Escuelas rurales sin conexión a Internet (contacto Cintia Tamargo)
+- Escuela IPET 26 Filloy (contacto Andrea Lescano)
 
 Todas estas acciones se plantean desarrollarlas bajo un lógica distinta a la que usan las "redes sociales", que crean adicción, trabajan la "economía de la atención" y necesitan del "like". Proponemos desarrollar "redes comunitarias", donde lo importante es vincular personas para generar cooperación y comunidad.
 
